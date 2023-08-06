@@ -1,0 +1,28 @@
+{
+  "name": "mui-gantt-chart",
+  "version": "1.0.0",
+  "description": "An Mui react gantt chart ",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obonyojimmy/mui-gantt-chart.git"
+  },
+  "author": "obonyojimmy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obonyojimmy/mui-gantt-chart/issues"
+  },
+  "homepage": "https://github.com/obonyojimmy/mui-gantt-chart#readme",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "@mui/material": "^5.0.0",
+    "@mui/icons-material": "^5.0.0"
+  }
+}
